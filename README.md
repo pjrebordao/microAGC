@@ -12,6 +12,6 @@ If you manage to land with a vertical speed <= -3 m/s you have what it takes. Ot
 There is provision in the hardware / software to connect a simple 4-way digital joystick to control the thrust level.
 Forward increases thrust, back decreases, left cuts thrust, right takes it to max.
 
-A circuit schematic and a PCB layout (not updated) are also present in Kicad format.
+A circuit schematic is also present in Kicad format.
 
 Finally, credit must go to Ron Burkey who coded the entire AGC emulator in C. I merely used it as part of this game/simulation.
