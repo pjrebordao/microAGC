@@ -1546,7 +1546,7 @@ void initDsky(){
 	tft.pushImage(191, 35, 29, 11, ProgOn);
 	tft.pushImage(137, 69, 29, 11, VerbOn);
 	tft.pushImage(191, 69, 29, 11, NounOn);	
-  throttle = 0;
+  throttle = oldThrottle = 0;
 }
 
 
